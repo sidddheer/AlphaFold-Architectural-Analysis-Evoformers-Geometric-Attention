@@ -29,10 +29,8 @@ This repository contains a detailed breakdown of the following core components:
 ## 📽️ Deliverables
 
 ### 📄 [View the Full Presentation Deck](./path_to_your_pdf.pdf)
-A 20-slide technical deck visualizing the architecture and performance benchmarks against CASP14 standards.
+A 22-slide technical deck visualizing the architecture and performance benchmarks against CASP14 standards.
 
-### 📺 [Watch the Video Walkthrough](Link_to_YouTube_or_File)
-A narrated deep-dive (15 mins) explaining the mathematical intuition behind the Evoformer and the implications for drug discovery.
 
 ---
 
